@@ -37,8 +37,11 @@ This project is a web-based interactive tool designed to help users visually com
    ```bash
    python app.py
 
-6. **Access the App**
+6. **Access the App** <br>
    Open your web browser and go to http://localhost:5000
+
+7. **Improvements** <br>
+UX/UI: Improve the app's design, enhance visual hierarchy by increasing slider contrast, bolding key labels, and improving spacing. Modernize buttons with a fresh design and position them prominently. Introduce interactive feedback, tooltips, and consistent font sizes for better user experience. Apply a cohesive color scheme with color-coded sliders for intuitive use. Finally, make the results display dynamic with animated transitions and additional metrics for clearer comparisons. 
 
 
 ## Addition details 
